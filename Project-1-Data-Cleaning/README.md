@@ -17,3 +17,7 @@ Clean the raw dataset by handling missing values, removing duplicates, and corre
 ## Status
 Completed
 
+## Screenshots
+
+Screenshot_20260622-092847.png
+Screenshot_20260622-092901.png
