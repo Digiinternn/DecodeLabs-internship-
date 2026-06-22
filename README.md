@@ -1,1 +1,33 @@
 # Decode-internship-
+# DecodeLabs Data Analytics Internship
+
+## Completed Projects
+
+### Project 1 - Data Cleaning & Preparation
+- Excel Data Cleaning
+- Missing Values Handling
+- Duplicate Validation
+- Data Standardization
+
+### Project 2 - Exploratory Data Analysis (EDA)
+- Descriptive Statistics
+- SQL Insights
+- Power BI Visualizations
+
+### Project 3 - SQL Analysis
+- WHERE, ORDER BY, GROUP BY
+- COUNT, SUM, AVG
+- HAVING Clause
+- Coupon Code Analysis
+
+### Project 4 - Power BI Dashboard
+- Sales Performance Dashboard
+- Revenue Analysis
+- Product Performance
+- Referral Source Analysis
+
+## Tools Used
+- Microsoft Excel
+- SQL Server (SSMS)
+- Power BI
+- GitHub
