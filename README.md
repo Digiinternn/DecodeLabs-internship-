@@ -33,7 +33,7 @@
 - Product Performance
 - Referral Source Analysis
 
-📄 Report: Project 4/Project 4 .pdf📄 [Project 4 Report](Project 4/Project%204%20.pdf)
+📄 Report: Project 4/Project 4 .pdf 📄 [Project 4 Report](Project%204/Project%204.pdf)
 ## Tools Used
 - Microsoft Excel
 - SQL Server (SSMS)
