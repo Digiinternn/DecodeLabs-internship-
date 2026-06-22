@@ -9,10 +9,14 @@
 - Duplicate Validation
 - Data Standardization
 
+📄 Report: Project-1-Data-Cleaning/Project 1 .pdf
+
 ### Project 2 - Exploratory Data Analysis (EDA)
 - Descriptive Statistics
 - SQL Insights
 - Power BI Visualizations
+
+📄 Report: Project-2-EDA/Project 2 .pdf
 
 ### Project 3 - SQL Analysis
 - WHERE, ORDER BY, GROUP BY
@@ -20,25 +24,18 @@
 - HAVING Clause
 - Coupon Code Analysis
 
+📄 Report: Project-3-SQL-Analysis/Project 3 .pdf
+
 ### Project 4 - Power BI Dashboard
 - Sales Performance Dashboard
 - Revenue Analysis
 - Product Performance
 - Referral Source Analysis
 
+📄 Report: Project 4/Project 4 .pdf
+
 ## Tools Used
 - Microsoft Excel
 - SQL Server (SSMS)
 - Power BI
 - GitHub
-### Project 1 - Data Cleaning & Preparation
-📄 [View Report](Project-1-Data-Cleaning/Project%201.pdf)
-
-### Project 2 - Exploratory Data Analysis (EDA)
-📄 [View Report](Project-2-EDA/Project%202.pdf)
-
-### Project 3 - SQL Analysis
-📄 [View Report](Project-3-SQL-Analysis/Project%203.pdf)
-
-### Project 4 - Power BI Dashboard
-📄 [View Report](Project%204/Project%204.pdf)
