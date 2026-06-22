@@ -56,3 +56,25 @@ SQL does not execute in the same order in which it is written. Understanding SQL
 
 ## Status
 Completed
+## Query Result Screenshots
+
+### Query 1
+![](Screenshot_20260622-103130.png)
+
+### Query 2
+![](Screenshot_20260622-103142.png)
+
+### Query 3
+![](Screenshot_20260622-103245.png)
+
+### Query 4
+![](Screenshot_20260622-103254.png)
+
+### Query 5
+![](Screenshot_20260622-103303.png)
+
+### Query 6
+![](Screenshot_20260622-103315.png)
+
+### Query 7
+![](Screenshot_20260622-103325.png)
