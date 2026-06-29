@@ -38,4 +38,4 @@
 - Microsoft Excel
 - SQL Server (SSMS)
 - Power BI
-- GitHub
+- GitHub.
